@@ -16,9 +16,9 @@ Ultra Low Cost Sound Reactive WLED Controller
 
 | Reference | Value | Comment | Estimated Cost per piece |
 |---|---|---|---|
-| C1, C6 | 100nF | MLCC 0805 | 0.01€ |
-| C2, C3, C4* | 22uF | MLCC 0805 | 0.10€ |
-| C5 | 1uF | MLCC 0805 | 0.05€ |
+| C1, C6 | 100nF | 0805 MLCC | 0.01€ |
+| C2, C3, C4* | 22uF | 0805 MLCC | 0.10€ |
+| C5 | 1uF | 0805 MLCC | 0.05€ |
 | C7 | >330uF | Electrolytic Cap D8.0 P3.5 | 0.15€ |
 | D1 | SS14 | Schottky | 0.05€ |
 | F1 | 2 - 10A | Mini Blade Fuse | 0.50€ |
@@ -31,7 +31,7 @@ Ultra Low Cost Sound Reactive WLED Controller
 | R2* | 0.03-1R | optional 0805 Resistor | - |
 | SW1 | - | Reset Switch SMD 6x3.5mm - f.e. PTS636 | 0.05 - 0.50€ |
 | U1 | AMS1117-3.3 | SOT-223-3 LDO | 0.05 - 0.50€ | 
-| U2 | ESP-WROOM-32 | With antenna | 2.85€ |
+| U2 | ESP-WROOM-32 | ESP32-Module with antenna | 2.85€ |
 | PCB | - | JLCPCB | 1.20€ |
 |------|------|------|------|
 |  |  |  | 5.12 - 10.89€ |
@@ -53,3 +53,5 @@ Do NOT use a very small tip!
 The circuit board provided on this GitHub repository is offered "as is," without any warranties or guarantees of any kind. By accessing and utilizing this circuit board, you acknowledge and agree that you do so at your own risk.
 
 The creator and contributor of this repository, shall not be held responsible or liable for any damages, losses, or injuries that may occur as a result of building and / or using this circuit board. This includes but is not limited to any direct, indirect, consequential, or incidental damages.
+
+Electricity is dangerous. Only attempt this project if you know what you're doing.
