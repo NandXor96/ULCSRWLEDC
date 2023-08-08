@@ -17,15 +17,16 @@ Ultra Low Cost Sound Reactive WLED Controller
 | Reference | Value | Comment | Estimated Cost per piece |
 |---|---|---|---|
 | C1, C6 | 100nF | 0805 MLCC | 0.01€ |
-| C2, C3, C4* | 22uF | 0805 MLCC | 0.10€ |
+| C2 | 10 - 22uF | 0805 MLCC | 0.10€ |
+| C3, C4* | 22uF | 0805 MLCC | 0.10€ |
 | C5 | 1uF | 0805 MLCC | 0.05€ |
-| C7 | >330uF | Electrolytic Cap D8.0 P3.5 | 0.15€ |
+| C7 | >=300uF | Electrolytic Cap D8.0 P3.5 | 0.15€ |
 | D1 | SS14 | Schottky | 0.05€ |
 | F1 | 2 - 10A | Mini Blade Fuse | 0.50€ |
 | MK1** | ICS43434 | optional MEMS Microphone | 0.95 - 2.90€ |
 | Q1 | - | SOIC-8 PMOS according to your needs - f.e. IRF7410 | 0.70 - 1.50€ |
 | Q2 | - | SOT-23-3 NMOS according to your needs - f.e. IRLML6244 | 0.05 - 0.50€ |
-| R1, R3, R4, R7 | 10k | 0805 Resistor | 0.01€ |
+| R1, R3, R5, R7 | 10k | 0805 Resistor | 0.01€ |
 | R4 | 100k | 0805 Resistor | 0.01€ |
 | R6 | 300R | 0805 Resistor | 0.01€ |
 | R2* | 0.03-1R | optional 0805 Resistor | - |
